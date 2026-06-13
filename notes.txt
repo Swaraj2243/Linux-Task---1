@@ -1,0 +1,27 @@
+Linux Task 01 Notes
+
+Linux is an open-source operating system widely used in servers, cloud computing, cybersecurity, and ethical hacking.
+
+Important Commands Learned:
+
+pwd      - Show current directory
+ls       - List files and folders
+cd       - Change directory
+mkdir    - Create directory
+touch    - Create file
+cp       - Copy file
+mv       - Move or rename file
+rm       - Delete file
+whoami   - Show current user
+hostname - Show system hostname
+uname -a - Show kernel information
+date     - Show current date and time
+uptime   - Show system uptime
+
+Key Learning Points:
+
+- Linux uses a hierarchical file system.
+- Commands are executed through the terminal.
+- File and directory management are essential Linux skills.
+- Linux is widely used in cybersecurity environments.
+- Most servers and security tools run on Linux.
