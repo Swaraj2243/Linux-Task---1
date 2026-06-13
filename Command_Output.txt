@@ -1,0 +1,50 @@
+pwd
+Displays the current working directory.
+
+ls
+Lists files and directories.
+
+ls -la
+Lists all files including hidden files with detailed information.
+
+cd
+Changes the current directory.
+
+clear
+Clears the terminal screen.
+
+history
+Shows previously executed commands.
+
+whoami
+Displays the currently logged-in user.
+
+hostname
+Displays the system hostname.
+
+mkdir
+Creates a new directory.
+
+tree
+Displays the directory structure in a tree format.
+
+touch
+Creates a new empty file.
+
+cp
+Copies files and directories.
+
+mv
+Moves or renames files and directories.
+
+rm
+Deletes files and directories.
+
+uname -a
+Displays kernel and system information.
+
+date
+Displays current date and time.
+
+uptime
+Displays how long the system has been running.
